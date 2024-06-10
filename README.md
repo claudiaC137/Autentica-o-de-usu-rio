@@ -17,7 +17,7 @@ Este é um projeto de API que oferece rotas para registro de usuários, login e 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/XPROGRAMING/auth-api-bcrypt.git
+    git clone(https://github.com/claudiaC137/Autentica-o-de-usu-rio.git)
     ```
 2. Navegue até o diretório do projeto:
     ```bash
